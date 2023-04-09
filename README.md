@@ -31,6 +31,6 @@ Projeto Trybe Wallet
 <details>
   <summary><strong>Como Logar</strong></summary><br />
 
-  - É um e-mail no formato válido, como 'alguem@alguem.com';
-  - A senha tem 6 ou mais caracteres;
+  - O e-mail deve estar em um formato válido, como 'alguem@alguem.com';
+  - A senha deve ter 6 ou mais caracteres;
 </details>
